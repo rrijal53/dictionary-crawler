@@ -50,7 +50,7 @@ if __name__ == '__main__':
                 response_json.append(res)
             else:
                 failed.append(item['id'])
-            break
+
     with open("output.json", "a+") as fi:
         fi.write(str(json.dumps(response_json)))
     with open("failed.json", "a+") as fi:
