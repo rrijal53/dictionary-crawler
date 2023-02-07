@@ -38,6 +38,7 @@
             ],
             "markers": "python_full_version >= '3.6.0'",
             "version": "==2022.6.15"
+
         },
         "chardet": {
             "hashes": [
@@ -143,6 +144,7 @@
                 "sha256:fc53893b3da2c33de295667a0e19f078c14bf86544af307354de5fcf12a3f30d"
             ],
             "markers": "python_full_version >= '3.6.0'",
+
             "version": "==2.3.2.post1"
         },
         "urllib3": {
